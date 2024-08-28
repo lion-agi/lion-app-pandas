@@ -1,1 +1,1 @@
-# lion-app-pandas
+# lion-app-openai
